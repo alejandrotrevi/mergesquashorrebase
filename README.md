@@ -5,3 +5,7 @@
 1st merge commit
 2nd merge commit
 3rd merge commit
+
+1st squash commit
+2nd squash commit
+3rd squash commit
