@@ -8,3 +8,4 @@
 
 1st squash commit
 2nd squash commit
+3rd squash commit
